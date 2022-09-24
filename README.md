@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ujjwalkumar949494@gmail.com**
 
-- 📄 Know about myself [https://www.linkedin.com/in/jhajibhaskar/](https://www.linkedin.com/in/jhajibhaskar/)
+- 📄 Know More about myself [https://www.linkedin.com/in/jhajibhaskar/](https://www.linkedin.com/in/jhajibhaskar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
