@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
+<h1 align="center">Hi There 👋, I'm Ujjwal Kumar</h1>
 <h3 align="center">I am Very Passionate about data ,I enjoy problem-solving and statistical analysis , which led me to a career in Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhajibhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="jhajibhaskar" /> </p>
