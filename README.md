@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **ujjwalkumar949494@gmail.com**
+- 📫 You Can reach me at **ujjwalkumar949494@gmail.com**
 
 - 📄 Know More about myself [https://www.linkedin.com/in/jhajibhaskar/](https://www.linkedin.com/in/jhajibhaskar/)
 
