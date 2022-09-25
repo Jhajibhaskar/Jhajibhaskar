@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/jhajibhaskar" target="blank"><img src="https://img.shields.io/twitter/follow/jhajibhaskar?logo=twitter&style=for-the-badge" alt="jhajibhaskar" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL & Pandas**
+- 🌱 I’m currently learning **DSA & Machine Learning**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python & MySQL**
 
-- 📫 You Can reach me at **ujjwalkumar949494@gmail.com**
+- 📫 You Can reach me at :  **ujjwalkumar949494@gmail.com**
 
-- 📄 Know More about myself [https://www.linkedin.com/in/jhajibhaskar/](https://www.linkedin.com/in/jhajibhaskar/)
+- 📄 Know More about myself :  [https://www.linkedin.com/in/jhajibhaskar/](https://www.linkedin.com/in/jhajibhaskar/)
 
 - 📚 My Portfolio Website [https://jhajibhaskar.github.io/](https://jhajibhaskar.github.io/)
 
