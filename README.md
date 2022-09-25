@@ -13,7 +13,7 @@
 
 - 📄 Know More about myself :  [https://www.linkedin.com/in/jhajibhaskar/](https://www.linkedin.com/in/jhajibhaskar/)
 
-- 📚 My Portfolio Website [https://jhajibhaskar.github.io/](https://jhajibhaskar.github.io/)
+- 📚 My Portfolio Website :  [https://jhajibhaskar.github.io/](https://jhajibhaskar.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
