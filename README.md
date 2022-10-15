@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **DSA & Machine Learning**
 
-- 💬 Ask me about **Python & MySQL**
-
 - 📫 You Can reach me at :  **ujjwalkumar949494@gmail.com**
 
 - 📄 Know More about myself :  [https://www.linkedin.com/in/jhajibhaskar/](https://www.linkedin.com/in/jhajibhaskar/)
