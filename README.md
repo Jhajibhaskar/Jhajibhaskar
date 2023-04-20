@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Ujjwal Kumar</h1>
+<h1 align="center">Namaste 🙏, I'm Ujjwal Kumar</h1>
 <h3 align="center">I enjoy problem-solving and Competitive Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhajibhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="jhajibhaskar" /> </p>
