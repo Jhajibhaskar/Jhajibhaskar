@@ -1,5 +1,5 @@
-<h1 align="center">Namaste 🙏, I'm Ujjwal Kumar</h1>
-<h3 align="center">Software Consultant - Salesforce Developer at Genpact<br> I enjoy problem-solving and Competitive Programming</h3>
+<h1 align="center">Namaste 🙏, I'm Ujjwal Kumar Jha</h1>
+<h3 align="center">Software Consultant - Salesforce Developer at Genpact & 2024 B.Tech(CSE) graduate from National Institute of Technology(NIT) Puducherry,🇮🇳.<br> I enjoy problem-solving and Competitive Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhajibhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="jhajibhaskar" /> </p>
 
