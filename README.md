@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jhajibhaskar" target="blank"><img src="https://img.shields.io/twitter/follow/jhajibhaskar?logo=twitter&style=for-the-badge" alt="jhajibhaskar" /></a> </p>
 
-- 🌱 I’m currently learning **DSA & Machine Learning**
+- 🌱 I’m currently Exploring **Salesforce Platform**
 
 - 📫 You Can reach me at :  **ujjwalkumar949494@gmail.com**
 
